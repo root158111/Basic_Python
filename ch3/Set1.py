@@ -1,0 +1,10 @@
+s = {1,2,3,4}
+print(s)
+s = set(('a',1,'b',2))
+print(s)
+s = set(['Apple','Grape','Banana','Apple'])
+print(s)
+s = set({'1':'Good Morning','2':'Hello'})
+print(s)
+s = set('racecar')
+print(s)

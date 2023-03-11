@@ -1,0 +1,6 @@
+s =  set('tiger')
+print(s)
+s.add('z')
+print(s)
+s.remove('t')
+print(s)
